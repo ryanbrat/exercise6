@@ -41,6 +41,10 @@ body {
   margin: 0 10px;
 }
 
+.navigation a:hover {
+  color: grey;
+}
+
 .hero {
   background-image: url(../images/hero.jpg);
   height: 300px;
