@@ -42,7 +42,7 @@ body {
 }
 
 .navigation a:hover {
-  color: grey;
+  color: inherit;
 }
 
 .hero {
